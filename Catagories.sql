@@ -1,4 +1,4 @@
-INSERT INTO vehicles_category (name, label) VALUES
+INSERT INTO vehicle_categories (name, label) VALUES
 	('compacts', 'Compacts'),
 	('coupes', 'Coupes'),
 	('cycles', 'Cycles'),
